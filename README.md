@@ -1,4 +1,4 @@
-## 🌱 backend Developer가 되고싶은
+## 🌱 Backend Developer가 되고싶은
 * 장진혁
 * 정보통계학과
 * PlayData Data Engineering 22 
